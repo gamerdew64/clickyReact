@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Jason Voorhees",
+    "image": "https://movies-b26f.kxcdn.com/wp-content/uploads/2015/02/Jason-770x470.jpg",
+    "occupation": "Mamma's Boy 2.0"
+  },
+  {
+    "id": 2,
+    "name": "Freddy Krueger",
+    "image": "https://cdn-images-1.medium.com/max/1200/0*V_OBFu_77z0bO5u9.jpg",
+    "occupation": "Narcolepsy Advocate"
+  },
+  {
+    "id": 3,
+    "name": "Michael Myers",
+    "image": "https://vignette.wikia.nocookie.net/vsbattles/images/4/4f/MICHAELMYERSHD.jpg/revision/latest?cb=20180327064213",
+    "occupation": "Babysitter Supervisor"
+  },
+  {
+    "id": 4,
+    "name": "Ghostface",
+    "image": "https://vignette.wikia.nocookie.net/scream/images/4/41/Ghostface_%28TV_series%29_1.png/revision/latest?cb=20171220140547",
+    "occupation": "Conversationalist"
+  },
+  {
+    "id": 5,
+    "name": "Norman Bates",
+    "image": "https://upload.wikimedia.org/wikipedia/fi/thumb/8/8a/NormanBates.jpg/1200px-NormanBates.jpg",
+    "occupation": "The OG Mama's Boy"
+  },
+  {
+    "id": 6,
+    "name": "Chucky",
+    "image": "http://images5.fanpop.com/image/photos/29200000/Bride-of-Chucky-bride-of-chucky-29210995-1024-576.png",
+    "occupation": "Good Guy Doll Gone Bad"
+  },
+  {
+    "id": 7,
+    "name": "Jigsaw",
+    "image": "https://i.ytimg.com/vi/1wN3zA29s_w/hqdefault.jpg",
+    "occupation": "Game Designer"
+  },
+  {
+    "id": 8,
+    "name": "Predator",
+    "image": "http://screencrush.com/files/2016/02/Predator.jpg",
+    "occupation": "Weirdo from Outer Space"
+  },
+  {
+    "id": 9,
+    "name": "Xenomorph",
+    "image": "https://vignette.wikia.nocookie.net/allspecies/images/6/61/Xenomorph_Drone.png/revision/latest?cb=20141007064303",
+    "occupation": "Another Weirdo from Outer Space"
+  },
+  {
+    "id": 10,
+    "name": "Leatherface",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/09/Leatherfaceentertainmentweekly.jpg",
+    "occupation": "Chainsaw Enthusiast"
+  },
+  {
+    "id": 11,
+    "name": "Captain Spaulding",
+    "image": "https://cdn3.movieweb.com/i/article/64YnvOShbSaUtfvBr4FQ4zeRwrWpz8/798:50/3-From-Hell-Captain-Spaulding-Sid-Haig-Devils.jpg",
+    "occupation": "Clown"
+  },
+  {
+    "id": 12,
+    "name": "Pinhead",
+    "image": "https://vignette.wikia.nocookie.net/hellraiser/images/4/4a/960.jpg/revision/latest?cb=20160204075810",
+    "occupation": "Acupuncturist"
+  }
+]

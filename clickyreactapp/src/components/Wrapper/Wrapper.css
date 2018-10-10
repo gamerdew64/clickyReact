@@ -1,0 +1,12 @@
+.wrapper {
+  padding-top: 50px;
+  /* Going from inside wrapper folder to inside components folder to inside src folder where our background image is*/
+  background: url("../../background.jpg");
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 20px;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+}
