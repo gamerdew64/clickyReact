@@ -1,5 +1,5 @@
 .card {
-  background: #fff;
+  background: gray;
   border-radius: 2px;
   height: 325px;
   margin: 1rem;
@@ -10,7 +10,9 @@
 }
 
 .card:hover {
-    background-color: pink;
+  /* background-color: pink; */
+  animation: color-me-sequence 25s; /* time it takes for the complete animation to complete */
+  animation-iteration-count: 25; /* will continue for roughly 15 minutes or so */
 }
 
 .card > .img-container {
@@ -59,4 +61,60 @@
   /* color: #d50000; */
   /* color: blue; */
   color: transparent;
+}
+
+
+/* Start background animation section*/
+@keyframes color-me-sequence
+{
+  /* Starts with base color --- step 1 */
+  0%
+  {
+    background: #DC143C;
+  }
+  10%
+  {
+    background: #ec7676;
+  }
+  /* Begins transition to next color at 20% */
+  20%
+  {
+    background: #ff8000;
+  }
+  30%
+  {
+    background: #14dcb4;
+  }
+  /* Begins transition to next color at 40% */
+  40%
+  {
+    background: #800080;
+  }
+  50%
+  {
+    background: #f47442;
+  }
+  /* Begins transition to next color at 60% */
+  60%
+  {
+    background: #8E3843;
+  }
+  70%
+  {
+    background: #ff8000;
+  }
+  /* Begins transition to next color at 80% */
+  80%
+  {
+    background: #14dcb4;
+  }
+  90%
+  {
+    background: #DC143C;
+  }
+  /* Begins transition to next color at 100% and completes sequence --- step 4 */
+  100%
+  {
+    background: #ec7676;
+  }
 }
